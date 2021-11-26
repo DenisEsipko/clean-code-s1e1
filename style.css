@@ -35,7 +35,7 @@
 .style-text {
   width: 56%;
   display: inline-block;
-  flex-grow: 1 ;
+  flex-grow: 1;
 }
 
 .top-task {
@@ -47,13 +47,11 @@
   padding: 0px;
 }
 
-.item,
-.titel {
+.item, .titel {
   list-style: none;
 }
 
-.style-text,
-.btn {
+.style-text, .btn {
   outline: none;
 }
 
@@ -72,8 +70,7 @@
 }
 
 /* Heading */
-.titel,
-.add-item__label {
+.titel, .add-item__label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
