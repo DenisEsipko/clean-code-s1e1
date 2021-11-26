@@ -161,14 +161,14 @@
 
 /* Edit Task */
 .input_style-text {
-  display:none;
+  display: none;
 }
 
 .edit-mode .input_style-text {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .edit-mode .label_style-text {
-  display:none;
+  display: none;
 }
